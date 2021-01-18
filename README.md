@@ -9,8 +9,8 @@ This is an individual project which was a semester long project in my web develo
 **Language Used:** JavaScript, **Tools Used:** ReactJS, Redux,  NodeJs, Express, MongoDB
 
 
-Currently the site is hosted on a free-tier Heroku server : 
-https://vast-journey-11718.herokuapp.com/home
+Currently the site is hosted on a free-tier Heroku server :   
+https://vast-journey-11718.herokuapp.com/home  
 Please feel free to mess around with creating a notebook from a wikipedia template. 
 
 **Note:** you must be logged in to create a notebook. You can easily create a dummy account by registering. A user can only edit/create a notebook if they are the author of that notebook (or an Admin). 
