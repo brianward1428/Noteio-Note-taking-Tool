@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa1e903c-db7b-4009-9dd3-cb0fdce044d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../typescript/noteio/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript/noteio/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript/noteio/src/react-app-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noteio/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noteio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../noteio/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noteio/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../noteio/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noteio/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../noteio/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noteio/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../noteio/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noteio/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../noteio/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noteio/src/actions/wikiSearchActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../noteio/src/actions/wikiSearchActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noteio/src/containers/NoteIoApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../noteio/src/containers/NoteIoApp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noteio/src/containers/NotebookEditorContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../noteio/src/containers/NotebookEditorContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noteio/src/containers/SearchWikiContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../noteio/src/containers/SearchWikiContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../noteio/src/reducers/WikiReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../noteio/src/reducers/WikiReducer.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kYcI1ZiszKnXUnYW02wxIGnOxE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/daos" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa1e903c-db7b-4009-9dd3-cb0fdce044d6" name="Default Changelist" comment="" />
+      <created>1605880882163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605880882163</updated>
+      <workItem from="1605880885856" duration="8773000" />
+      <workItem from="1605976117705" duration="1190000" />
+      <workItem from="1606224430031" duration="674000" />
+      <workItem from="1606236395499" duration="1483000" />
+      <workItem from="1606312788502" duration="807000" />
+      <workItem from="1606313985501" duration="488000" />
+      <workItem from="1606316135890" duration="14383000" />
+      <workItem from="1606335800600" duration="2369000" />
+      <workItem from="1606918247900" duration="10639000" />
+      <workItem from="1607003989128" duration="1596000" />
+      <workItem from="1607117475503" duration="773000" />
+      <workItem from="1607537668349" duration="1806000" />
+      <workItem from="1607647124557" duration="3085000" />
+      <workItem from="1607696910761" duration="808000" />
+      <workItem from="1607725657555" duration="19135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="205" key="#Notifications" timestamp="1606316676013">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="205" key="#Notifications/0.0.1920.1080/-1080.-194.1080.1920@0.0.1920.1080" timestamp="1606316676013" />
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605880961406">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1080.-186.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1605880961406" />
+    <state x="482" y="-730" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606237122937">
+      <screen x="-241" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="482" y="-730" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-241.-1080.1920.1080@-241.-1080.1920.1080" timestamp="1606237122937" />
+    <state width="1878" height="265" key="GridCell.Tab.0.bottom" timestamp="1606402586546">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/-1080.-186.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1605894785513" />
+    <state width="1878" height="249" key="GridCell.Tab.0.bottom/0.0.1440.900/-241.-1080.1920.1080@-241.-1080.1920.1080" timestamp="1606244731995" />
+    <state width="1878" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1080.-171.1080.1897@0.0.1920.1080" timestamp="1606402586546" />
+    <state width="1878" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1080.-194.1080.1920@0.0.1920.1080" timestamp="1606342090055" />
+    <state width="1878" height="265" key="GridCell.Tab.0.center" timestamp="1606402586545">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/-1080.-186.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1605894785512" />
+    <state width="1878" height="249" key="GridCell.Tab.0.center/0.0.1440.900/-241.-1080.1920.1080@-241.-1080.1920.1080" timestamp="1606244731994" />
+    <state width="1878" height="265" key="GridCell.Tab.0.center/0.0.1920.1080/-1080.-171.1080.1897@0.0.1920.1080" timestamp="1606402586545" />
+    <state width="1878" height="265" key="GridCell.Tab.0.center/0.0.1920.1080/-1080.-194.1080.1920@0.0.1920.1080" timestamp="1606342090054" />
+    <state width="1878" height="265" key="GridCell.Tab.0.left" timestamp="1606402586544">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/-1080.-186.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1605894785512" />
+    <state width="1878" height="249" key="GridCell.Tab.0.left/0.0.1440.900/-241.-1080.1920.1080@-241.-1080.1920.1080" timestamp="1606244731993" />
+    <state width="1878" height="265" key="GridCell.Tab.0.left/0.0.1920.1080/-1080.-171.1080.1897@0.0.1920.1080" timestamp="1606402586544" />
+    <state width="1878" height="265" key="GridCell.Tab.0.left/0.0.1920.1080/-1080.-194.1080.1920@0.0.1920.1080" timestamp="1606342090053" />
+    <state width="1878" height="265" key="GridCell.Tab.0.right" timestamp="1606402586545">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/-1080.-186.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1605894785513" />
+    <state width="1878" height="249" key="GridCell.Tab.0.right/0.0.1440.900/-241.-1080.1920.1080@-241.-1080.1920.1080" timestamp="1606244731995" />
+    <state width="1878" height="265" key="GridCell.Tab.0.right/0.0.1920.1080/-1080.-171.1080.1897@0.0.1920.1080" timestamp="1606402586545" />
+    <state width="1878" height="265" key="GridCell.Tab.0.right/0.0.1920.1080/-1080.-194.1080.1920@0.0.1920.1080" timestamp="1606342090054" />
+    <state x="423" y="-822" key="RollbackChangesDialog" timestamp="1606237221849">
+      <screen x="-241" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="423" y="-822" key="RollbackChangesDialog/0.0.1440.900/-241.-1080.1920.1080@-241.-1080.1920.1080" timestamp="1606237221849" />
+    <state x="653" y="402" key="com.intellij.ide.util.TipDialog" timestamp="1607725658678">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="653" y="372" key="com.intellij.ide.util.TipDialog/-1080.-186.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1605880885942" />
+    <state x="653" y="387" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1080.-194.1080.1920@0.0.1920.1080" timestamp="1607698099550" />
+    <state x="412" y="-708" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-241.-1080.1920.1080@-241.-1080.1920.1080" timestamp="1606236399933" />
+    <state x="653" y="402" key="com.intellij.ide.util.TipDialog/0.23.1920.1057/-1080.-171.1080.1897@0.23.1920.1057" timestamp="1607725658678" />
+  </component>
+</project>
